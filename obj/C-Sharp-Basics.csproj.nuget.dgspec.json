@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj": {}
+    "E:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj": {}
   },
   "projects": {
-    "e:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj": {
+    "E:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj",
+        "projectUniqueName": "E:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj",
         "projectName": "C-Sharp-Basics",
-        "projectPath": "e:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj",
+        "projectPath": "E:\\C#\\C-Sharp-Basics\\C-Sharp-Basics.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "e:\\C#\\C-Sharp-Basics\\obj\\",
+        "outputPath": "E:\\C#\\C-Sharp-Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
