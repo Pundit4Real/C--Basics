@@ -1,0 +1,15 @@
+E:\C#\C-Sharp-Basics\numbersInC#\bin\Debug\net8.0\numbersInC#.exe
+E:\C#\C-Sharp-Basics\numbersInC#\bin\Debug\net8.0\numbersInC#.deps.json
+E:\C#\C-Sharp-Basics\numbersInC#\bin\Debug\net8.0\numbersInC#.runtimeconfig.json
+E:\C#\C-Sharp-Basics\numbersInC#\bin\Debug\net8.0\numbersInC#.dll
+E:\C#\C-Sharp-Basics\numbersInC#\bin\Debug\net8.0\numbersInC#.pdb
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.AssemblyInfoInputs.cache
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.AssemblyInfo.cs
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.csproj.CoreCompileInputs.cache
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.sourcelink.json
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.dll
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\refint\numbersInC#.dll
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.pdb
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\numbersInC#.genruntimeconfig.cache
+E:\C#\C-Sharp-Basics\numbersInC#\obj\Debug\net8.0\ref\numbersInC#.dll
